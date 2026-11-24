@@ -1,0 +1,8 @@
+tipo;identificador;nombre;apellido;telefono;email;calle;numero;ciudad;region;dato1;dato2;dato3;dato4;dato5
+PERSONA;12.345.678-9;Ana;Muñoz;+56912345678;ana.munoz@email.com;Av. Frutillar;123;Llanquihue;Los Lagos;;;;
+EMPLEADO;15.678.901-2;Carlos;Soto;+56987654321;carlos.soto@llanquihuetour.cl;Calle Puerto Montt;456;Puerto Montt;Los Lagos;Coordinador de Operaciones;850000;2018-03-15;;
+CLIENTE;18.901.234-5;María;González;+56911223344;maria.gonzalez@gmail.com;Los Colonos;789;Puerto Varas;Los Lagos;Chilena;Nacional;2;;
+GUIA;14.567.890-1;Pedro;Vera;+56966778899;pedro.vera@llanquihuetour.cl;Calle Los Volcanes;22;Llanquihue;Los Lagos;920000;2015-07-01;Español, Inglés, Alemán;Turismo lacustre y gastronómico;9
+CLIENTE;PASSP-DE-4521;Hans;Müller;+4930123456;hans.muller@email.de;Hauptstraße;10;Berlín;Alemania;Alemana;Internacional;1;;
+CLIENTE;19.870.563-2;Ivan;Caldera;+56977958140;ivancaldera.a@gmail.com;superciudad;123;Arica;Arica y Parinacota;Chilena;Nacional;2;;
+CLIENTE;19.870.563-2;Ivan;Caldera;+56977958140;ivancaldera.a@gmail.com;superciudad;123;Arica;Arica y Parinacota;Chilena;Nacional;2;;
